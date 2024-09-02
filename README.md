@@ -1,8 +1,8 @@
-### Hamish MacDonald is an Experience Designer
+### Hamish MacDonald is a Game Designer
 
 ## 🔆 Important repos
 - [Memex](https://github.com/kormyen/memex) - a personal knowledge base. JS webapp.
-- [Home](https://github.com/kormyen/home) - a portfolio, time tracker and exocortex. No-JS site built by JS from a JS webapp.
+- [Home](https://github.com/kormyen/home) - a portfolio and exocortex. JS webapp.
 
 ## 🔭 Goals
 - Art for liberation - deliberate art, engineering and research toward escape from societal traps.

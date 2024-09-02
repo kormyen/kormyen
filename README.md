@@ -3,6 +3,7 @@
 ## 🔆 Important repos
 - [Memex](https://github.com/kormyen/memex) - a personal knowledge base. JS webapp.
 - [Home](https://github.com/kormyen/home) - a portfolio and exocortex. JS webapp.
+- [Overview](https://github.com/kormyen/overview) - a digital tellurion. JS webapp.
 
 ## 🔭 Goals
 - Art for liberation - deliberate art, engineering and research toward escape from societal traps.

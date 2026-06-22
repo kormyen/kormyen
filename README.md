@@ -1,6 +1,6 @@
-### Hamish MacDonald is a Game Designer
+### Hamish MacDonald is a Senior Design Engineer
 
-## 🔆 Important repos
+## 🔆 Important public repos
 - [Memex](https://github.com/kormyen/memex) - a personal knowledge base. JS webapp.
 - [Home](https://github.com/kormyen/home) - a portfolio and exocortex. JS webapp.
 - [Overview](https://github.com/kormyen/overview) - a digital tellurion. JS webapp.
